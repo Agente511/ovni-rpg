@@ -5,8 +5,9 @@ share: "true"
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |
 | Vida (PV)              | 15/15     |
-| Sanidade (PS)          | 7/7     |
+| Sanidade (PS)          | 7/7       |
 | Pontos de Talento (PS) | 3         |
+
 
 ### [[Atributos e Subatributos#Habilidades|Habilidades]]
 | Nome         | Nº Pontos |
