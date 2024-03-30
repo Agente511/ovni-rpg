@@ -1,6 +1,3 @@
----
-share: "true"
----
 ### Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |
