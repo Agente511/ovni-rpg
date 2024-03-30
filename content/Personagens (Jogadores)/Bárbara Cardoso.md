@@ -4,8 +4,9 @@
 | Vida (PV)              | 14/14     |
 | Sanidade (PS)          | 9/9       |
 | Pontos de Talento (PT) | 4         |
+|                        |           |
 
-## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos|Atributos e Subatributos]]
+## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
@@ -15,7 +16,8 @@
 | Psicologia   | 2         |
 | Inteligência | 3         |
 
-## [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Subatributos]]
+## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Subatributos|Subatributos]]
+
 | AGI         | Nº  |     | FOR       | Nº  |     | VIG         | Nº  |
 | ----------- | --- | --- | --------- | --- | --- | ----------- | --- |
 | Acrobacias  | 0   |     | Atletismo | 0   |     | Resistência | 0   |

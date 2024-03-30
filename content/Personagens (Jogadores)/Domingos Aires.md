@@ -6,7 +6,8 @@
 | Pontos de Talento (PT) | 3         |
 
 
-## [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Atributos e Subatributos#Habilidades|Habilidades]]
+## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
+
 | Nome         | Nº Pontos |
 | ------------ | --------- |
 | Agilidade    | 2         |
@@ -15,7 +16,8 @@
 | Psicologia   | 1         |
 | Inteligência | 0         |
 
-## [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
+## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Subatributos|Subatributos]]
+
 | AGI         | Nº   |     | FOR       | Nº |     | VIG         | Nº |
 | ----------- | ----------- | --- | --------- | --------- | --- | ----------- | --------- |
 | Acrobacias  | 0           |     | Atletismo | 5         |     | Resistência | 5         |
