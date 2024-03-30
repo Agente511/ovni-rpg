@@ -9,7 +9,7 @@ share: "true"
 | Pontos de Talento (PS) | 3         |
 
 
-### [[Atributos e Subatributos#Habilidades|Habilidades]]
+### [[../../Atributos e Subatributos#Habilidades|Habilidades]]
 | Nome         | Nº Pontos |
 | ------------ | --------- |
 | Agilidade    | 2         |
@@ -18,7 +18,7 @@ share: "true"
 | Psicologia   | 1         |
 | Inteligência | 0         |
 
-### [[Atributos e Subatributos#Atributos|Atributos]]
+### [[../../Atributos e Subatributos#Atributos|Atributos]]
 | AGI         | Nº   |     | FOR       | Nº |     | VIG         | Nº |
 | ----------- | ----------- | --- | --------- | --------- | --- | ----------- | --------- |
 | Acrobacias  | 0           |     | Atletismo | 5         |     | Resistência | 5         |
