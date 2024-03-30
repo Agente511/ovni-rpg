@@ -9,7 +9,7 @@ share: "true"
 | Sanidade (PS)          | 9/9       |     |
 | Pontos de Talento (PS) | 4         |     |
 
-### [[Atributos e Subatributos#Habilidades|Atributos]]
+### [[../../Atributos e Subatributos#Habilidades|Atributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
@@ -19,7 +19,7 @@ share: "true"
 | Psicologia   | 2         |
 | Inteligência | 3         |
 
-### [[Atributos e Subatributos#Atributos|Subatributos]]
+### [[../../Atributos e Subatributos#Atributos|Subatributos]]
 | AGI         | Nº   |     | FOR       | Nº |     | VIG         | Nº |
 | ----------- | ----------- | --- | --------- | --------- | --- | ----------- | --------- |
 | Acrobacias  | 0           |     | Atletismo | 0         |     | Resistência | 0         |
