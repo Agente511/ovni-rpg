@@ -1,3 +1,8 @@
+---
+title: Domingos Aires
+draft: false
+tags:
+---
 ## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |

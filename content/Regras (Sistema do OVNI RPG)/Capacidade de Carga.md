@@ -1,3 +1,8 @@
+---
+title: Capacidade de Carga
+draft: false
+tags:
+---
 Cada jogador consegue carregar consigo diferentes quantidades de itens.
 Esta capacidade pode ser aumentada com o uso de, por exemplo, mochilas. 
 Veículos também podem ter capacidade de carga, sempre informada pelo mestre.

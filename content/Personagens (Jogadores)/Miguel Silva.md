@@ -1,3 +1,8 @@
+---
+title: Miguel Silva
+draft: false
+tags:
+---
 ## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |

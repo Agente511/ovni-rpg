@@ -1,3 +1,8 @@
+---
+title: Capacidade de Carga (Inventário)
+draft: false
+tags:
+---
 Cada jogador consegue carregar consigo diferentes quantidades de itens. Esta capacidade pode ser aumentada com o uso de, por exemplo, mochilas. Veículos podem ter também capacidade de carga informada pelo mestre.
 
 >[!Question] Como calcular?

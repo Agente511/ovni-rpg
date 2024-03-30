@@ -1,3 +1,8 @@
+---
+title: Testes de Atributo
+draft: false
+tags:
+---
 Para fazer a maioria das ações no RPG, são precisos fazer testes de atributo.
 O resultado do teste **define o sucesso ou fracasso da ação**.
 

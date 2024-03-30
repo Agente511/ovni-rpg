@@ -1,3 +1,8 @@
+---
+title: Bárbara Cardoso
+draft: false
+tags:
+---
 ## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |

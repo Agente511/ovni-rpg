@@ -1,3 +1,8 @@
+---
+title: Loucura
+draft: false
+tags:
+---
 Caso um jogador tenha a sua **sanidade reduzida a 0 ou menos**, este enlouquece.
 
 Quando enlouquecido, um jogador na sua vez tem as **ações limitadas** a um teste de Psicologia (neste caso a [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Testes de atributo#Dificuldade de Teste|Dificuldade de Teste]] é anunciada a todos como `DT 15`). Caso passe no teste a sua sanidade passa para o valor de diferença entre o resultado do teste e a [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Testes de atributo#Dificuldade de Teste|Dificuldade de Teste]].

@@ -1,3 +1,8 @@
+---
+title: Movimento
+draft: false
+tags:
+---
 > *São dois passitos para a frente*  
 > *Dois passos para trás*  
 > *Mãozinha na cintura e vamos ver o que isto dá*  

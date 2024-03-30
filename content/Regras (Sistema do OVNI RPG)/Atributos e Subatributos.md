@@ -1,3 +1,8 @@
+---
+title: Atributos e Subatributos
+draft: false
+tags:
+---
 ## Atributos
 São distribuídos 9 pontos por todos os atributos.
 Cada atributo tem, no mínimo, 0 pontos e, no máximo, 3 pontos.
