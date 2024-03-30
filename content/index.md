@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Boas-vindas à Wiki Oficial do OVNI RPG
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Aqui poderás ver como funciona o sistema do OVNI RPG e os dados das personagens jogáveis.

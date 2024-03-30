@@ -1,3 +1,6 @@
+---
+title: Dicionário
+---
 >[!Tip] Dica
 >Se procurares uma palavra em específico, podes pesquisá-la através do atalho `Ctrl+F`
 >>[!Quote] De nada ;)

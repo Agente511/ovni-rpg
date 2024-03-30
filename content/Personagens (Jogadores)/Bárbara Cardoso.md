@@ -5,7 +5,7 @@
 | Sanidade (PS)          | 9/9       |
 | Pontos de Talento (PT) | 4         |
 
-## [[Planeamento RPG (Restrito ao Mestre)/1. Regras ATUALIZADAS (Sistema do OVNI RPG)/Atributos e Subatributos#Habilidades|Atributos]]
+## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos|Atributos e Subatributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
@@ -39,5 +39,5 @@
 |              |     |     | Estratégia           | 0   |
 |              |     |     | Tecnologia           | 5   |
 
->[!Warning] Atenção:
+>[!Warning] Atenção
 >Os atributos nem sempre têm de ser usados em teste com a habilidade determinada nas tabelas acima, podendo sempre ser usado com uma habilidade diferente, dependendo da situação
