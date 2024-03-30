@@ -1,7 +1,3 @@
----
-sticker: emoji//1f610
-share: "true"
----
 ### Visão Geral
 | Nome                   | Nº Pontos |     |
 | ---------------------- | --------- | --- |
