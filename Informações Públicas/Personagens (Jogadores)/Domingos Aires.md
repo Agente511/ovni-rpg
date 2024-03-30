@@ -1,12 +1,12 @@
-### Visão Geral
+## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |
 | Vida (PV)              | 15/15     |
 | Sanidade (PS)          | 7/7       |
-| Pontos de Talento (PS) | 3         |
+| Pontos de Talento (PT) | 3         |
 
 
-### [[../../Atributos e Subatributos#Habilidades|Habilidades]]
+## [[../../Atributos e Subatributos#Habilidades|Habilidades]]
 | Nome         | Nº Pontos |
 | ------------ | --------- |
 | Agilidade    | 2         |
@@ -15,7 +15,7 @@
 | Psicologia   | 1         |
 | Inteligência | 0         |
 
-### [[../../Atributos e Subatributos#Atributos|Atributos]]
+## [[../../Atributos e Subatributos#Atributos|Atributos]]
 | AGI         | Nº   |     | FOR       | Nº |     | VIG         | Nº |
 | ----------- | ----------- | --- | --------- | --------- | --- | ----------- | --------- |
 | Acrobacias  | 0           |     | Atletismo | 5         |     | Resistência | 5         |
