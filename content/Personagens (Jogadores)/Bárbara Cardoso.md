@@ -2,6 +2,7 @@
 title: Bárbara Cardoso
 publish: true
 tags:
+  - "#PC"
 ---
 ## Visão Geral
 | Nome                   | Nº Pontos |

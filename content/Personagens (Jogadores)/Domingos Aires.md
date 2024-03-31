@@ -2,6 +2,7 @@
 title: Domingos Aires
 publish: true
 tags:
+  - "#PC"
 ---
 ## Visão Geral
 | Nome                   | Nº Pontos |
