@@ -15,5 +15,4 @@ Além disso, a nível de história e *lore*, o valor do atributo também represe
 >Alguém com grande força física, terá um valor de Força alto (Domingos Aires com 3)
 
 ## Subatributos
----
 Além dos atributos, há ainda os subatributos
