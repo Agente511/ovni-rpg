@@ -1,6 +1,6 @@
 ---
 title: Bárbara Cardoso
-draft: false
+publish: true
 tags:
 ---
 ## Visão Geral
