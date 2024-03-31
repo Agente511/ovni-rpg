@@ -9,7 +9,7 @@ tags:
 | Vida (PV)              | 13/13     |
 | Sanidade (PS)          | 10/10     |
 | Pontos de Talento (PT) | 4         |
-
+a
 ## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
 
 | Nome         | Nº Pontos |
