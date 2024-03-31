@@ -18,9 +18,9 @@ Cada teste de atributo usa um atributo e, geralmente, um subatributo.
 ## Quantidade de dados a usar
 Nos testes são usados uma quantidade de dados igual ao valor do atributo usado nesse teste
 >[!Example] Ou seja...
-3 Força = 3 dados (d20)
-2 Inteligência = 2 dados (d20)
-1 Psicologia = 1 dados (d20)
+>3 Força = 3 dados (d20)
+>2 Inteligência = 2 dados (d20)
+>1 Psicologia = 1 dados (d20)
 
 Esses dados são então lançados, e é escolhido o maior valor entre os dados.
 
