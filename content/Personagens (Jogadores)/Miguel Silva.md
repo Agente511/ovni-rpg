@@ -11,7 +11,7 @@ tags:
 | Sanidade (PS)          | 10/10     |
 | Pontos de Talento (PT) | 4         |
 
-## [[Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
+## [[Atributos e Subatributos#Atributos|Atributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
@@ -21,8 +21,7 @@ tags:
 | Psicologia   | 2         |
 | Inteligência | 2         |
 
-
-## [[Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Subatributos|Subatributos]]
+## [[Atributos e Subatributos#Subatributos|Subatributos]]
 
 | AGI         | Nº   |     | FOR       | Nº |     | VIG         | Nº |
 | ----------- | ----------- | --- | --------- | --------- | --- | ----------- | --------- |
