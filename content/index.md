@@ -2,6 +2,6 @@
 title: Boas-vindas à Wiki Oficial do OVNI RPG
 publish: true
 ---
-Aqui poderás ver como funciona o sistema do OVNI RPG e os dados das personagens jogáveis.
+Aqui tens acesso a diversas informações do OVNI RPG, como o sistema, as personagens, resumos das sessões, etc.
 
 ![[Pasted image 20240401001742.png]]
