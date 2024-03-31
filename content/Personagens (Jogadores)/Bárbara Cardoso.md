@@ -12,7 +12,7 @@ tags:
 | Pontos de Talento (PT) | 4         |
 |                        |           |
 
-## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
+## [[Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
@@ -22,7 +22,7 @@ tags:
 | Psicologia   | 2         |
 | Inteligência | 3         |
 
-## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Subatributos|Subatributos]]
+## [[Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Subatributos|Subatributos]]
 
 | AGI         | Nº  |     | FOR       | Nº  |     | VIG         | Nº  |
 | ----------- | --- | --- | --------- | --- | --- | ----------- | --- |
