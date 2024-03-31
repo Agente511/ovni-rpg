@@ -1,6 +1,6 @@
 ---
 title: Loucura
-draft: false
+publish: true
 tags:
 ---
 Caso um jogador tenha a sua **sanidade reduzida a 0 ou menos**, este enlouquece.

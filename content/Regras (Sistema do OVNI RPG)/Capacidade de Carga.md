@@ -1,6 +1,6 @@
 ---
 title: Capacidade de Carga
-draft: false
+publish: true
 tags:
 ---
 Cada jogador consegue carregar consigo diferentes quantidades de itens.

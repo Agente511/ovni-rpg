@@ -1,5 +1,5 @@
 ---
 title: Dano
-draft: false
+publish: true
 tags:
 ---

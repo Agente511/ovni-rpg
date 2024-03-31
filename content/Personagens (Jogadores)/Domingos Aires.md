@@ -1,6 +1,6 @@
 ---
 title: Domingos Aires
-publish: false
+publish: true
 tags:
 ---
 ## Visão Geral
@@ -9,7 +9,6 @@ tags:
 | Vida (PV)              | 15/15     |
 | Sanidade (PS)          | 7/7       |
 | Pontos de Talento (PT) | 3         |
-b
 
 ## [[content/Regras (Sistema do OVNI RPG)/Atributos e Subatributos#Atributos|Atributos]]
 

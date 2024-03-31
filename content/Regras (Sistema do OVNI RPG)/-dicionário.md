@@ -1,6 +1,6 @@
 ---
 title: Dicionário
-draft: false
+publish: true
 tags:
 ---
 >[!Tip] Dica

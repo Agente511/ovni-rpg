@@ -1,6 +1,6 @@
 ---
 title: Atributos e Subatributos
-draft: false
+publish: true
 tags:
 ---
 ## Atributos

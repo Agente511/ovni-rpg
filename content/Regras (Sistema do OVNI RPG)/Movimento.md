@@ -1,6 +1,6 @@
 ---
 title: Movimento
-draft: false
+publish: true
 tags:
 ---
 > *São dois passitos para a frente*  
