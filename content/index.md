@@ -5,5 +5,4 @@ publish: true
 
 Aqui poderás ver como funciona o sistema do OVNI RPG e os dados das personagens jogáveis.
 
-## Índice
-1. [[Personagens (Jogadores)|Personagens (Jogadores)]]
+![[Pasted image 20240331215331.png]]
