@@ -1,49 +1,43 @@
----
-title: Miguel Silva
-publish: true
-tags:
-  - "#PC"
----
 ## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |
-| Vida (PV)              | 13/13     |
-| Sanidade (PS)          | 10/10     |
-| Pontos de Talento (PT) | 4         |
+| Vida (PV)              | 15/15     |
+| Sanidade (PS)          | 8/8       |
+| Pontos de Talento (PT) | 5         |
 
 ## [[Atributos e Subatributos#Atributos|Atributos]]
 
 | Nome         | Nº Pontos |
 | ------------ | --------- |
-| Agilidade    | 3         |
-| Força        | 1         |
-| Vigor        | 1         |
-| Psicologia   | 2         |
+| Agilidade    | 1         |
+| Força        | 0         |
+| Vigor        | 3         |
+| Psicologia   | 3         |
 | Inteligência | 2         |
 
 ## [[Atributos e Subatributos#Subatributos|Subatributos]]
 
 | AGI         | Nº  |     | FOR       | Nº  |     | VIG         | Nº  |
 | ----------- | --- | --- | --------- | --- | --- | ----------- | --- |
-| Acrobacias  | 5   |     | Atletismo | 0   |     | Resistência | 0   |
+| Acrobacias  | 0   |     | Atletismo | 0   |     | Resistência | 5   |
 | Crime       | 0   |     | Luta      | 0   |     |             |     |
 | Furtividade | 0   |     |           |     |     |             |     |
 | Iniciativa  | 0   |     |           |     |     |             |     |
 | Condução    | 0   |     |           |     |     |             |     |
 | Pontaria    | 0   |     |           |     |     |             |     |
-| Reflexos    | 5   |     |           |     |     |             |     |
+| Reflexos    | 0   |     |           |     |     |             |     |
 
 | PSI          | Nº  |     | INT                  | Nº  |
 | ------------ | --- | --- | -------------------- | --- |
-| Domesticação | 5   |     | Atualidades/História | 0   |
-| Artes        | 5   |     | Ciências             | 0   |
+| Domesticação | 0   |     | Atualidades/História | 0   |
+| Artes        | 0   |     | Ciências             | 0   |
 | Diplomacia   | 5   |     | Intuição             | 5   |
-| Fingimento   | 0   |     | Investigação         | 0   |
+| Fingimento   | 5   |     | Investigação         | 0   |
 | Intimidação  | 0   |     | Medicina             | 0   |
-| Percepção    | 0   |     | Ovnilogia            | 0   |
+| Percepção    | 0   |     | Ovnilogia            | 5   |
 | Religião     | 0   |     | Profissão            | 0   |
 | Determinação | 0   |     | Sobrevivência        | 0   |
-|              |     |     | Estratégia           | 0   |
+|              |     |     | Estratégia           | 5   |
 |              |     |     | Tecnologia           | 0   |
 
 >[!Warning] Atenção
