@@ -47,4 +47,4 @@ tags:
 |              |           |     | Tecnologia           | 0          |
 
 >[!Warning] Atenção
->Os subatributos nem sempre têm de ser usados em teste com o atributo determinado nas tabelas acima, podendo sempre ser usado com uma habilidade diferente, dependendo da situação
+>Os subatributos nem sempre têm de ser usados em teste com o atributo determinado nas tabelas acima, podendo sempre ser usado com um atributo diferente, dependendo da situação
