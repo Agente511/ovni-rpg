@@ -1,5 +1,5 @@
 ---
-title: Dicionário
+title: 📖 Dicionário
 publish: true
 tags:
 ---
