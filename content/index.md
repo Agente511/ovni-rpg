@@ -11,7 +11,7 @@ Aqui tens acesso a diversas informações do OVNI RPG, como o sistema, as person
 >
 >**Pede-se, também, *feedback*** para tornar esta Wiki o melhor possível.
 
-- [Personagens (Jogadores)](/Personagens(Jogadores))
+- [Personagens (Jogadores)](/Personagens(Jogadores)) aha
 - [[content/Regras (Sistema do OVNI RPG)/index|Regras (Sistema do OVNI RPG)]]
 - [[content/Galeria/index|Galeria]]
 
