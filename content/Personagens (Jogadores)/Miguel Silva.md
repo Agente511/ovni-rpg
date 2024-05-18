@@ -4,6 +4,8 @@ publish: true
 tags:
   - "#PC"
 ---
+## Sobre
+**Interpretado por**: João
 ## Visão Geral
 | Nome                   | Nº Pontos |
 | ---------------------- | --------- |
