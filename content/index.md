@@ -7,7 +7,7 @@ Aqui tens acesso a diversas informações do OVNI RPG, como o sistema, as person
 >[!Warning] Atenção
 >**A Wiki está em construção**, tal como as informações nela contidas.
 >
->Por isso, sempre que vires alguma informação, tem em conta que pode não estar finalizada. Apesar disso, sempre que vires algo que não te pareça correto, recomenda-se que comuniques ao Mestre.
+>Por isso, sempre que vires alguma informação, tem em conta que pode não estar finalizada. No entanto, sempre que vires algo que não te pareça correto, recomenda-se que comuniques ao Mestre.
 >
 >**Pede-se, também, *feedback*** para tornar esta Wiki o melhor possível.
 
