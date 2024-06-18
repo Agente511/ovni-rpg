@@ -20,7 +20,7 @@ Aqui estão disponíveis significados para diversos termos utilizados nas regras
 ## J
 ## K
 ## L
-- **Loucura:** Estado mental em que a personagem perde o controlo de si, ficando paranóica.
+- **Loucura:** Estado mental em que a personagem perde o controlo de si, ficando paranoica.
 ## M
 ## ...
 ## P
