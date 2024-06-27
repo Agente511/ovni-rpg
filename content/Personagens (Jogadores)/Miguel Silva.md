@@ -13,6 +13,7 @@ tags:
 | Vida (PV)              | 13/13  |
 | Sanidade (PS)          | 10/10  |
 | Pontos de Talento (PT) | 4      |
+
 Inventário: 5 espaços
 Defesa: 13
 ## Talentos
@@ -26,6 +27,7 @@ Defesa: 13
 | Vigor        | 1      |
 | Psicologia   | 2      |
 | Inteligência | 2      |
+
 *Sabe mais sobre atributos [[Atributos e Subatributos#Atributos|aqui]]*.
 ## Subatributos
 
@@ -50,6 +52,7 @@ Defesa: 13
 | Religião ★           | 0   |     | Profissão ★          | 0   |
 | Moral                | 0   |     | Sobrevivência        | 0   |
 |                      |     |     | Tecnologia ★         | 0   |
+
 *Sabe mais sobre subatributos [[Atributos e Subatributos#Subatributos|aqui]]*.
 >[!Warning] Atenção
 >Os subatributos nem sempre têm de ser usados em teste com o atributo indicado nas tabelas acima, podendo sempre ser usado com um atributo diferente, dependendo da situação
