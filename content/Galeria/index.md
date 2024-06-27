@@ -1,6 +1,6 @@
 ---
 title: Galeria
-publish: true
+publish: false
 ---
 Coleção de algumas imagens do OVNI RPG.
 

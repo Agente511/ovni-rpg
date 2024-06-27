@@ -15,7 +15,7 @@ Cada teste de atributo usa um atributo e, geralmente, um subatributo.
 >[!summary] Em síntese
 >Atributo $\times$ d20 + Subatributo
 ## Quantidade de dados a usar
-Nos testes são usados uma quantidade de dados igual ao valor do atributo usado nesse teste
+Nos testes são usados uma quantidade de dados igual aos pontos do atributo usado nesse teste
 >[!Summary] Ou seja...
 >3 Força = 3 dados (d20)
 >2 Inteligência = 2 dados (d20)
@@ -24,16 +24,16 @@ Nos testes são usados uma quantidade de dados igual ao valor do atributo usado 
 
 Esses dados são então lançados, e é escolhido o **maior valor** entre os dados.
 
->[!Info] Quando o valor do Atributo é 0
->Caso o valor do Atributo seja 0, são lançados 2 dados, mas é escolhido o valor mais baixo.
-## Bónus de Subatributo
+>[!Info] Atributo com 0 pontos
+>Caso o atributo usado no teste de atributo tenha 0 pontos, são lançados 2 dados, mas é escolhido o valor mais baixo.
+## Bónus de subatributo
 Ao resultado dos dados é adicionado um bónus de subatributo, se forem verificadas as seguintes condições:
-- O teste, além do Atributo, também usar um Subatributo (Alguns testes não usam Subatributos devido a nenhum Subatributo se adequar à situação)
-- O jogador que está a fazer o teste, tenha aptidão no Subatributo usado no teste.
+- O teste, além do atributo, também use um subatributo (Alguns testes não usam subatributos devido a nenhum subatributo se adequar à situação)
+- O jogador que está a fazer o teste, tenha aptidão no subatributo usado no teste.
 
-Um bónus de atributo é a soma do valor do Subatributo ao resultado obtido após o lançamento dos dados num teste de atributo.
+Um bónus de atributo é a soma do valor do subatributo ao resultado obtido após o lançamento dos dados num teste de atributo.
 ## Dificuldade de Teste
-Cada teste de atributo tem um valor mínimo necessário para ser bem sucedido, ou seja, o resultado do teste tem de ser igual ou superior ao valor da DT.
+Cada teste de atributo tem um valor mínimo necessário para ser bem sucedido, ou seja, o resultado do teste tem de ser igual ou superior ao valor da dificuldade de teste (DT).
 A DT de cada teste, geralmente, não é revelada para os jogadores.
 
 >[!Note] Exemplo
@@ -56,6 +56,19 @@ Queres investigar um livro em cima de uma mesa, e a DT para isso é (secretament
 Nesse exemplo, testes de Atributo que não usem perceção ou investigação não são afetados, já que a escuridão só afeta a visão e outros Subatributos não estão relacionados à visão.
 
 Por isso, apesar de nunca saberes a DT certa de um teste de Atributo, é sempre importante pensares em maneiras de aumentares a probabilidade do sucesso da ação.
+## Sucesso Automático
+Se o **resultado do dado escolhido for 20**, passas no teste automaticamente, independentemente da [[Testes de Atributo#Dificuldade de Teste|dificuldade de teste]].
+
+>[!Note] Exemplo 1
+>Queres saltar sobre um buraco enorme e então fazes um teste de Agilidade com Acrobacia. Neste exemplo a DT é 25 e tens 3 de `Agilidade` e 5 pontos de `Acrobacias`.
+>- Nos dados dá-te 8, 3 e 20, e tens de escolher o nº maior dos dados, dando por isso 20
+>- O teste é imediatamente bem sucedido mesmo sem o resultado ser efetivamente igual ou superior à DT e não teres usado qualquer bónus de atributo, devido a teres conseguido um dado que desse 20
+
+>[!Note] Exemplo 2
+>Queres saltar sobre um buraco enorme e então fazes um teste de Agilidade com Acrobacia. Neste exemplo a DT é 25 e tens 3 de `Agilidade` e 5 de `Acrobacia`.
+>- Nos dados dá-te 8, 3 e 15, e tens de escolher o nº maior dos dados, dando por isso 15
+>- Adicionas 5 devido ao bónus de Subatributo, dando 20
+>- 20 < 25 e por isso a ação fracassou
 ## Testes competitivos
 É possível múltiplas personagens quererem fazer coisas opostas, primeiro, contra outra personagem ou outra situação de caráter competitivo.
 Nestes casos, cada personagem envolvida lança os dados, realizando um teste. A personagem que obtiver o resultado superior, vence, tendo a sua ação bem-sucedida. Caso haja um empate, lança-se os dados novamente (apenas entre as personagens que empataram).
@@ -85,19 +98,6 @@ Num teste estendido, a personagem deve acumular uma quantidade de sucessos (defi
 Como nos testes de atributos comuns, é possível usar subatributos nos testes estendidos. No entanto, dentro de um teste estendido, cada subatributo só pode ser utilizado uma vez por cada personagem.
 ## Uso de talentos em testes de atributos
 Talentos que forneçam bónus a um teste devem ser usadas antes de realizar o teste.
-## Sucesso Automático
-Se o **resultado do dado escolhido for 20**, passas no teste automaticamente, independentemente da dificuldade de teste.
-
->[!Note] Exemplo 1
->Queres saltar sobre um buraco enorme e então fazes um teste de Agilidade com Acrobacia. *Neste exemplo a DT é 30 e tens 3 de Agilidade e 5 de Acrobacia*
->- Nos dados dá-te 8, 3 e 20, e tens de escolher o nº maior dos dados, dando por isso 20
->- O teste é imediatamente bem sucedido mesmo sem o resultado ser efetivamente igual ou superior à DT e não teres usado qualquer bónus de atributo, devido a teres conseguido um dado que desse 20
-
->[!Note] Exemplo 2
->Queres saltar sobre um buraco enorme e então fazes um teste de Agilidade com Acrobacia. *Neste exemplo a DT é 30 e tens 3 de Agilidade e 5 de Acrobacia*
->- Nos dados dá-te 8, 3 e 15, e tens de escolher o nº maior dos dados, dando por isso 15
->- Adicionas 5 devido ao bónus de Subatributo, dado 20
->- 20 < 30 e por isso a ação fracassou
 ## Ajuda
 É possível os jogadores trabalharem juntos para realizar uma tarefa. Nesses casos, o grupo deve definir alguém para ser o líder (normalmente, será aquele com o maior atributo ou bónus de subatributo), enquanto os outros serão os ajudantes.
 

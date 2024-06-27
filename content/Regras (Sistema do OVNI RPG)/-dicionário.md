@@ -1,6 +1,6 @@
 ---
 title: 📖 Dicionário
-publish: true
+publish: false
 tags:
 ---
 Aqui estão disponíveis significados para diversos termos utilizados nas regras do OVNI RPG, organizados por ordem alfabética.
