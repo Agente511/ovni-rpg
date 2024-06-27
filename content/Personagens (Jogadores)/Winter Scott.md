@@ -5,7 +5,7 @@ tags:
   - "#PC"
 ---
 ## Sobre
-**Interpretado por**: Mariana
+**Interpretada por**: Mariana
 ![[Winter Scott-250.png|250]]
 ## Visão Geral
 | Nome                   | Pontos |

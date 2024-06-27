@@ -5,7 +5,7 @@ tags:
   - "#PC"
 ---
 ## Sobre
-**Interpretado por**: Márcia
+**Interpretada por**: Márcia
 ![[Bárbara Cardoso-250.png]]
 ## Visão Geral
 | Características        | Pontos |
