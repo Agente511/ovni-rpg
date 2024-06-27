@@ -36,7 +36,7 @@ No entanto, certas armas, mais precisas, têm uma margem crítica menor.
 #### Bónus crítico
 A maioria das armas tem um bónus crítico igual a $\times$ 2.
 No entanto, certas armas, mais destruidoras, têm um bónus crítico maior.
->[!Exemplos de bónus críticos]
+>[!Note] Exemplos de bónus críticos
 >- Martelo: $\times$ 2
 >- Arco: $\times$ 3
 >- Revólver: $\times$ 3
@@ -64,10 +64,10 @@ Este tipo de armas é ainda subdivido em 2 tipos: arremesso e disparo.
   
   Ao resultado do teste de dano, é adicionado o valor de `Força` da personagem que realiza o ataque.
   >[!Note] Exemplos de armas de arremesso
->- Dardo
->- Lanças
->- Machado (se for lançado)
->- Faca (se for lançada)
+  >- Dardo 
+  >- Lanças
+  >- Machado (se for lançado)
+  >- Faca (se for lançada)
 - #### Arma de disparo
   A arma dispara projéteis.
   Para recarregar uma arma de disparo são precisas as duas mãos (não se pode ter a outra mão ocupada).
@@ -137,9 +137,6 @@ A personagem derruba o alvo, deixando-o [[Condições#Caído|caído]], mas sem c
 A personagem derruba um item que o alvo esteja a segurar.
 #### Empurrar
 A personagem empurra o alvo 1,5 metros + 1,5 por cada diferença de 5 pontos entre os testes.
-
-
-
 ## Defesa e Proteções
 ### Defesa
 A defesa representa a dificuldade de acertar dada personagem em combate.
