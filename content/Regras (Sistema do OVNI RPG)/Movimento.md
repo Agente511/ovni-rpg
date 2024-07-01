@@ -14,7 +14,7 @@ Num terreno onde seja difícil andar, como neve funda, uma multidão ou uma flor
 ## Saltos
 É possível saltar sobre obstáculos ou alcançar algo elevado. Os saltos estão incluídos no deslocamento normal, logo fazem parte da [[Períodos#Ação de movimento|ação de movimento]] do mesmo (só se gasta a ação caso se esteja em combate).
 
-Para nadar faz-se um [[Testes de Atributo|teste]] de `Força` com `Atletismo` contra uma [[Testes de Atributo#Dificuldade de Teste|DT]] conforme a distância e tipo do salto.
+Para saltar faz-se um [[Testes de Atributo|teste]] de `Força` com `Atletismo` contra uma [[Testes de Atributo#Dificuldade de Teste|DT]] conforme a distância e tipo do salto.
 ### Saltos em comprimento
 Nos saltos em comprimento, a [[Testes de Atributo#Dificuldade de Teste|DT]] é 5 por cada 1,5 metros (1 quadrado).
 ### Saltos em altura
@@ -58,4 +58,4 @@ Um sucesso permite à personagem avançar. Caso se falhe no teste, a personagem 
 O deslocamento a nado de uma personagem [[Capacidade de Carga#Sobrecarga|sobrecarregada]] é de 3 metros (2 quadrados).
 ### Suster a respiração
 Ao afundar, deve-se prender a respiração, o que pode ser feito um número de vezes igual ao valor de `Vigor`.
-Além disso, depois do 1ª suster de respiração antes de correr deve-se fazer um [[Testes de Atributo|teste]] de `Vigor` com `Resistência` ([[Testes de Atributo#Dificuldade de Teste|DT]] 5 + 5 por cada nado feito no combate). Em caso de falhanço, a personagem tem a sua [[Pontos de Vida, de Sanidade e de Talento#Vida|vida]] reduzida a 0.
+Além disso, depois do 1ª suster de respiração antes de nadar deve-se fazer um [[Testes de Atributo|teste]] de `Vigor` com `Resistência` ([[Testes de Atributo#Dificuldade de Teste|DT]] 5 + 5 por cada nado feito no combate). Em caso de falhanço, a personagem tem a sua [[Pontos de Vida, de Sanidade e de Talento#Vida|vida]] reduzida a 0.

@@ -43,7 +43,7 @@ Existem ainda reações especiais, para [[Ataque e Defesa#Ações de defesa|defe
 ## Períodos de descanso
 Períodos de descanso ocorrem ocasionalmente, geralmente em locais seguros, como um bunker ou quarto de hotel.
 
-Nos períodos de descanso podem-se fazer, no máximo. 2 das seguintes ações de modo a recuperar [[Pontos de Vida, de Sanidade e de Talento|pontos vida, sanidade e/ou de talento]]:
+Nos períodos de descanso podem-se fazer, no máximo 2 das seguintes ações de modo a recuperar [[Pontos de Vida, de Sanidade e de Talento|pontos vida, sanidade e/ou de talento]]:
 ### Comer
 A personagem alimenta-se. Logicamente, as refeições só podem ser comidas se existirem.
 - #### Prato rápido
@@ -72,7 +72,7 @@ Só é possível dormir uma vez por período de descanso.
   Fornece +2 PV e +2 PT.
 - #### Sono luxuoso
   Só pode ser feito num sítio luxuoso, como um spa ou um hotel 5 estrelas
-  Fornece +3 PV e +3 PS.
+  Fornece +3 PV e +3 PT.
 ### Relaxar
 A personagem realiza uma atividade relaxante para descansar a cabeça.
 Só é possível relaxar uma vez por período de descanso.
