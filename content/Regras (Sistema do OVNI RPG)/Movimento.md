@@ -46,7 +46,10 @@ Se uma outra personagem próxima (a até 1,5 metros de distância) estiver a esc
 Um sucesso faz com que a personagem que estava a cair seja segurada e que possa voltar à posição onde se encontrava. Um falhanço por 5 ou mais, faz com que ambas as personagens caiam.
 ### Ataques durante uma escalada
 Caso uma personagem seja atacada durante uma escalada, deve fazer um novo [[Testes de Atributo|teste]] de `Força` com `Atletismo`. Neste caso, qualquer falha causa uma queda, enquanto que um sucesso permite à personagem manter-se onde está.
+### Dano de queda
+Uma queda causa `1d3` de dano, por cada 1,5 metros de altura. No caso de a superfície de queda ser água, o dano é lançado menos um `d6`.
 
+A queda de um objeto pesado sobre um ser também causa `1d3` de dano.
 ## Natação
 É possível nadar, gastando uma [[Períodos#Ação de movimento|ação de movimento]] (só se gasta a ação caso se esteja em combate).
 
