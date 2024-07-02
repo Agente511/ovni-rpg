@@ -4,16 +4,15 @@ publish: true
 ---
 Aqui tens acesso a diversas informações do OVNI RPG, como o sistema, as personagens, resumos das sessões, etc.
 
->[!Warning] Atenção
->**A Wiki está em construção**, tal como as informações nela contidas.
+>[!Warning] *Feedback*, por favor!
+>Pede-se ***feedback*** sobre os conteúdos presentes na Wiki, de forma a corrigir erros ou clarificar regras.
+>> *Obrigado - O Mestre*
 >
->Por isso, sempre que vires alguma informação, tem em conta que pode não estar finalizada. No entanto, sempre que vires algo que não te pareça correto, recomenda-se que comuniques ao Mestre.
->
->**Pede-se, também, *feedback*** para tornar esta Wiki o melhor possível.
 
+## Conteúdos
 - [Personagens (Jogadores)](/Personagens-(Jogadores))
 - [Regras (Sistema do OVNI RPG)](/Regras-(Sistema-do-OVNI-RPG))
-- ~~[Galeria](/Galeria)~~ *(ia fazer, mas, pelo menos por enquanto, não há imagens q justifiquem)*
+- ~~[Galeria](/Galeria)~~ *(ia fazer, mas, pelo menos por enquanto, não há uma quantidade de imagens que justifique)*
 
 ![[Pasted image 20240620142643.png]]
 ## Sobre

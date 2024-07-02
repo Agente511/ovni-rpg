@@ -52,6 +52,9 @@ Na maioria das situações, os subatributos são usados com os seguintes atribut
 | Religião             |     | Profissão            |
 | Moral                |     | Sobrevivência        |
 |                      |     | Tecnologia           |
+
+Podes verificar a que cada subatributo se refere *[[Descrições dos Subatributos|aqui]]*.
+
 >[!Warning] Exceções ao uso de atributos-base
 >Por vezes, as situações em que é feito o teste podem não se adequar ao uso do atributo-base. 
 >Nesses casos o teste de atributo é feito com outro atributo.
