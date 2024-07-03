@@ -43,7 +43,7 @@ Existem ainda reações especiais, para [[Ataque e Defesa#Ações de defesa|defe
 ## Períodos de descanso
 Períodos de descanso ocorrem ocasionalmente, geralmente em locais seguros, como um bunker ou quarto de hotel.
 
-Nos períodos de descanso podem-se fazer, no máximo 2 das seguintes ações de modo a recuperar [[Pontos de Vida, de Sanidade e de Talento|pontos vida, sanidade e/ou de talento]]:
+Nos períodos de descanso podem-se fazer, no máximo 2 das seguintes ações de modo a recuperar [[Pontos de Vida, de Sanidade e de Talento|pontos de vida, de sanidade ou de talento]]:
 ### Comer
 A personagem alimenta-se. Logicamente, as refeições só podem ser comidas se existirem.
 - #### Prato rápido
@@ -57,7 +57,7 @@ A personagem alimenta-se. Logicamente, as refeições só podem ser comidas se e
   Se a personagem [[#Dormir|dormir]] no mesmo período, ganha +1 [[Pontos de Vida, de Sanidade e de Talento#Vida|PV]] de bónus.
 - #### Prato favorito
   Comida favorita.
-  Se a personagem [[#Relaxar|relaxar]] no mesmo período, ganha +2 [[Pontos de Vida, de Sanidade e de Talento#Sanidade|PS]] de bónus. 
+  Se a personagem [[#Relaxar|relaxar]] no mesmo período, ganha +2 [[Pontos de Vida, de Sanidade e de Talento#Vida|PS]] de bónus. 
 ### Dormir
 A personagem dorme, recuperando uma certa quantidade de [[Pontos de Vida, de Sanidade e de Talento#Vida|PV]] e [[Pontos de Vida, de Sanidade e de Talento#Talentos|PT]].
 Só é possível dormir uma vez por período de descanso.
